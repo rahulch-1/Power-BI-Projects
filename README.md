@@ -11,6 +11,7 @@ Overall Calls Answered/Abandoned
 Calls by Time (Day, Week, Month)
 Average Speed of Answer
 Agent's Performance Quadrant (Average Handle Time vs. Calls Answered)
+
 Details:
 The details for this task include a comprehensive explanation of each selected KPI, the methodology used for calculations with DAX, and a user-friendly arrangement of visuals on the Power BI dashboard. Testing procedures, interactive elements, and assumptions made during the process are also outlined.
 
@@ -35,6 +36,7 @@ No. of Leavers
 % of Hires Men/Women
 % Turnover
 Average Performance Rating (Men/Women)
+
 Details:
 The details include an explanation of each calculated KPI, their significance in assessing gender balance, and the rationale behind their selection. Contextual information, limitations of the dataset, and a recommendation for comprehensive insights into organizational diversity are highlighted.
 
